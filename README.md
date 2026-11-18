@@ -35,6 +35,8 @@ Developers who analyze satellite imagery at planetary scale without downloading 
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-image` | A first image: collections, filters, and visualization parameters |
